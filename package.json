@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "*", 
+    "ip-geolocation-api-javascript-sdk": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
